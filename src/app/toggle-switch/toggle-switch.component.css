@@ -1,7 +1,7 @@
 .toggle-switch {
     width: 60px;
     height: 30px;
-    background-color: rgb(211, 113, 43);
+    background-color: lightgray;
     position: relative;
     cursor: pointer;
     border-radius: 15px;
@@ -11,7 +11,7 @@
   .slider {
     width: 30px;
     height: 30px;
-    background-color: rgb(42, 179, 228);
+    background-color: rgb(12, 12, 213);
     border-radius: 50%;
     position: absolute;
     transition: transform 0.3s ease;
